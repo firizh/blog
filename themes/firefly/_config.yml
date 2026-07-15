@@ -9,7 +9,7 @@
 # ============================================================
 theme_color:
   # 色相值 (0-360)，主题色将基于此值生成
-  hue: 165
+  hue: 200
   # 是否锁定主题色（用户不可切换）
   fixed: false
   # 默认色彩模式，可选：light, dark, system
@@ -34,7 +34,7 @@ nav:
     # Logo 图片的 alt 文本
     alt: "🍀"
   # 导航栏标题
-  title: "Firefly"
+  title: "FishH2O"
   # 是否显示菜单
   show_menu: true
   # 导航菜单项
@@ -204,10 +204,10 @@ post_list_layout:
 social:
   - name: "GitHub"
     icon: "gite"
-    url: "https://github.com"
+    url: "https://github.com/firizh"
   - name: "Email"
     icon: "mail"
-    url: "mailto:example@email.com"
+    url: "3814436297@qq.com"
   - name: "RSS"
     icon: "rss_feed"
     url: "/rss/"
@@ -223,7 +223,7 @@ logo:
 #  首页文字 (对应模板中 theme.home_text.*，banner.ejs 读取)
 # ============================================================
 home_text:
-  title: "Lovely firefly!"
+  title: "Nyan~"
   subtitle: "In Reddened Chrysalis, I Once Rest"
   typewriter:
     enable: true
@@ -293,7 +293,7 @@ index:
 #  站点基本设置 (siteConfig.ts 其余部分)
 # ============================================================
 site:
-  title: "Firefly"
+  title: "q(≧▽≦q)"
   subtitle: "Demo site"
   # 站点完整 URL，末尾无需斜杠
   site_url: "https://firefly.example.com"
@@ -309,7 +309,7 @@ site:
   # 站点语言，可选：zh-CN, zh-TW, en, ja, ru
   lang: zh-CN
   # 站点成立日期，格式：YYYY-MM-DD
-  site_start_date: "2025-01-01"
+  site_start_date: "2026-07-14"
   # 时区设置
   timezone: "Asia/Shanghai"
   # 是否在文章末尾显示最后修改时间
