@@ -499,7 +499,7 @@ comments:
   # Giscus 评论（基于 GitHub Discussions）
   giscus:
     # GitHub 仓库，格式：username/repo
-    repo: "https://github.com/firizh/blog"
+    repo: "firizh/blog"
     # GitHub 仓库 ID
     repo_id: "1301893507"
     # 讨论分类名称
