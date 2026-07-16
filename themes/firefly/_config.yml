@@ -501,11 +501,11 @@ comments:
     # GitHub 仓库，格式：username/repo
     repo: "firizh/blog"
     # GitHub 仓库 ID
-    repo_id: "1301893507"
+    repo_id: "R_kgDOTZlRgw"
     # 讨论分类名称
     category: "Announcements"
     # 分类 ID
-    category_id: " 50664213"
+    category_id: "DIC_kwDOTZlRg84DBRMV"
     # 页面与讨论的映射方式，可选：pathname, url, title, og:title
     mapping: "pathname"
     # 是否使用严格匹配模式
@@ -568,7 +568,7 @@ music:
     # 类型，可选：playlist（歌单）, album（专辑）, artist（歌手）, song（单曲）
     type: "playlist"
     # 对应歌单/专辑/歌手/单曲的 ID
-    id: "10046455237"
+    id: "2149370388"
   # 本地音乐设置
   local:
     # 本地播放列表，每项包含 name, artist, url, cover, lrc
