@@ -363,10 +363,10 @@ profile:
   links:
     - name: "GitHub"
       icon: "gite"
-      url: "https://github.com"
+      url: "https://github.com/firizh"
     - name: "Email"
       icon: "mail"
-      url: "mailto:example@email.com"
+      url: "mailto:3814436297@qq.com"
     - name: "RSS"
       icon: "rss_feed"
       url: "/rss/"
