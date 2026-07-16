@@ -9,7 +9,7 @@
 # ============================================================
 theme_color:
   # 色相值 (0-360)，主题色将基于此值生成
-  hue: 187
+  hue: 175
   # 是否锁定主题色（用户不可切换）
   fixed: false
   # 默认色彩模式，可选：light, dark, system
@@ -207,7 +207,7 @@ social:
     url: "https://github.com/firizh"
   - name: "Email"
     icon: "mail"
-    url: "fishh2o@outlook.jp"
+    url: "mailto:3814436297@qq.com"
   - name: "RSS"
     icon: "rss_feed"
     url: "/rss/"
@@ -296,9 +296,9 @@ site:
   title: "q(≧▽≦q)"
   subtitle: "Demo site"
   # 站点完整 URL，末尾无需斜杠
-  site_url: "https://firefly.example.com"
+  site_url: "https://www.irisfish.qzz.io"
   # 站点描述，用于 SEO 和 Open Graph
-  description: "Firefly 是一款基于 Hexo 框架的清新美观且现代化个人博客主题模板，具有丰富的功能和灵活的配置。"
+  description: ""
   # 站点关键词
   keywords:
     - Firefly
@@ -356,9 +356,9 @@ profile:
   # 头像图片路径
   avatar: "/img/avatar.avif"
   # 显示名称
-  name: "Firefly"
+  name: "FishH2O"
   # 个人简介
-  bio: "Hello, I'm Firefly."
+  bio: "nya~"
   # 社交链接
   links:
     - name: "GitHub"
