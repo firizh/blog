@@ -208,9 +208,9 @@ social:
   - name: "Email"
     icon: "mail"
     url: "3814436297@qq.com"
-  - name: "RSS"
-    icon: "rss_feed"
-    url: "/rss/"
+  - name: "Bilibili"
+    icon: "biliblil"
+    url: "https://space.bilibili.com/1379983523?spm_id_from=333.1007.0.0"
 
 # ============================================================
 #  导航栏 Logo (对应模板中 theme.logo.*)
