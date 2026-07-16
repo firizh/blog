@@ -30,7 +30,7 @@ nav:
     # Logo 类型：image（图片）或 text（文字）
     type: "image"
     # Logo 图片路径（type 为 image 时生效）
-    value: "/img/neko.png"
+    value: "/img/favicon.png"
     # Logo 图片的 alt 文本
     alt: "🧊"
   # 导航栏标题
@@ -216,7 +216,7 @@ social:
 #  导航栏 Logo (对应模板中 theme.logo.*)
 # ============================================================
 logo:
-  url: "/img/neko.png"
+  url: "/img/favicon.png"
   icon: "🧊"
 
 # ============================================================
@@ -224,7 +224,7 @@ logo:
 # ============================================================
 home_text:
   title: "Nyan~"
-  subtitle: https://v1.hitokoto.cn/?c=f&c=a&c=b&c=c&c=d&c=e&c=g&c=h&c=i&c=j&c=k&encode=text
+  subtitle: "这都被你发现了"
   typewriter:
     enable: true
     speed: 100
