@@ -207,24 +207,24 @@ social:
     url: "https://github.com/firizh"
   - name: "Email"
     icon: "mail"
-    url: "3814436297@qq.com"
-  - name: "Bilibili"
-    icon: "biliblil"
-    url: "https://space.bilibili.com/1379983523?spm_id_from=333.1007.0.0"
+    url: "fishh2o@outlook.jp"
+  - name: "RSS"
+    icon: "rss_feed"
+    url: "/rss/"
 
 # ============================================================
 #  导航栏 Logo (对应模板中 theme.logo.*)
 # ============================================================
 logo:
-  url: "/img/firefly.png"
-  icon: "🍀"
+  url: "/img/neko.png"
+  icon: "🧊"
 
 # ============================================================
 #  首页文字 (对应模板中 theme.home_text.*，banner.ejs 读取)
 # ============================================================
 home_text:
   title: "Nyan~"
-  subtitle: "In Reddened Chrysalis, I Once Rest"
+  subtitle: "https://v1.hitokoto.cn/?c=f&c=a&c=b&c=c&c=d&c=e&c=g&c=h&c=i&c=j&c=k&encode=text"
   typewriter:
     enable: true
     speed: 100
