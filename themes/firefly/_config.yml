@@ -9,9 +9,9 @@
 # ============================================================
 theme_color:
   # 色相值 (0-360)，主题色将基于此值生成
-  hue: 175
+  hue: 220
   # 是否锁定主题色（用户不可切换）
-  fixed: false
+  fixed: true
   # 默认色彩模式，可选：light, dark, system
   default_mode: system
 
@@ -32,7 +32,7 @@ nav:
     # Logo 图片路径（type 为 image 时生效）
     value: "/img/favicon.png"
     # Logo 图片的 alt 文本
-    alt: "🧊"
+    alt: ""
   # 导航栏标题
   title: "FishH2O"
   # 是否显示菜单
@@ -208,16 +208,12 @@ social:
   - name: "Email"
     icon: "mail"
     url: "mailto:3814436297@qq.com"
-  - name: "RSS"
-    icon: "rss_feed"
-    url: "/rss/"
-
 # ============================================================
 #  导航栏 Logo (对应模板中 theme.logo.*)
 # ============================================================
 logo:
   url: "/img/favicon.png"
-  icon: "🧊"
+  icon: ""
 
 # ============================================================
 #  首页文字 (对应模板中 theme.home_text.*，banner.ejs 读取)
@@ -296,7 +292,7 @@ site:
   title: "q(≧▽≦q)"
   subtitle: "Demo site"
   # 站点完整 URL，末尾无需斜杠
-  site_url: "https://www.irisfish.qzz.io"
+  site_url: "https://blog.irisfish.qzz.io"
   # 站点描述，用于 SEO 和 Open Graph
   description: ""
   # 站点关键词
@@ -367,9 +363,6 @@ profile:
     - name: "Email"
       icon: "mail"
       url: "mailto:3814436297@qq.com"
-    - name: "RSS"
-      icon: "rss_feed"
-      url: "/rss/"
 
 # ============================================================
 #  壁纸/背景设置 (backgroundWallpaper.ts)
@@ -448,7 +441,7 @@ wallpaper:
         desktop: true
         mobile: true
       # 是否允许用户开关波浪效果
-      switchable: true
+      switchable: false
     # 渐变效果
     gradient:
       enable:
@@ -457,7 +450,7 @@ wallpaper:
       # 渐变高度
       height: "15vh"
       # 是否允许用户开关渐变效果
-      switchable: true
+      switchable: false
   # Banner 模式专属设置
   banner:
     # 背景位置，CSS background-position 值
@@ -465,7 +458,7 @@ wallpaper:
     # 轮播设置
     carousel:
       # 是否启用轮播
-      enable: false
+      enable: true
       # 轮播间隔，单位：毫秒
       interval: 5000
       # 是否允许用户开关轮播
@@ -568,7 +561,7 @@ music:
     # 类型，可选：playlist（歌单）, album（专辑）, artist（歌手）, song（单曲）
     type: "playlist"
     # 对应歌单/专辑/歌手/单曲的 ID
-    id: "2149370388"
+    id: "18205941600"
   # 本地音乐设置
   local:
     # 本地播放列表，每项包含 name, artist, url, cover, lrc
