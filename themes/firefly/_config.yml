@@ -32,7 +32,7 @@ nav:
     # Logo 图片路径（type 为 image 时生效）
     value: "/img/favicon.png"
     # Logo 图片的 alt 文本
-    alt: ""
+    alt: "💤"
   # 导航栏标题
   title: "FishH2O"
   # 是否显示菜单
@@ -103,7 +103,7 @@ pages:
   # 留言板页面
   guestbook: true
   # 番组页面（追番/追剧列表）
-  bangumi: true
+  bangumi: false
   # 相册页面
   gallery: true
 
@@ -111,8 +111,7 @@ pages:
 #  文章分类栏 (对应模板中 theme.category_bar.*)
 # ============================================================
 category_bar:
-  enable: false
-
+  enable: true
 # ============================================================
 #  文章设置 (对应模板中 theme.post.*)
 # ============================================================
@@ -208,18 +207,23 @@ social:
   - name: "Email"
     icon: "mail"
     url: "mailto:3814436297@qq.com"
+  - name: "Bilibili"
+    url: "https://space.bilibili.com/1379983523"
+    external: true
+    icon: "fa7-brands:bilibili"
+
 # ============================================================
 #  导航栏 Logo (对应模板中 theme.logo.*)
 # ============================================================
 logo:
   url: "/img/favicon.png"
-  icon: ""
+  icon: "💤"
 
 # ============================================================
 #  首页文字 (对应模板中 theme.home_text.*，banner.ejs 读取)
 # ============================================================
 home_text:
-  title: "Nyan~"
+  title: "Nya~"
   subtitle: "这都被你发现了"
   typewriter:
     enable: true
@@ -363,6 +367,10 @@ profile:
     - name: "Email"
       icon: "mail"
       url: "mailto:3814436297@qq.com"
+    - name: "Bilibili"
+      url: "https://space.bilibili.com/1379983523"
+      external: true
+      icon: "fa7-brands:bilibili"
 
 # ============================================================
 #  壁纸/背景设置 (backgroundWallpaper.ts)
